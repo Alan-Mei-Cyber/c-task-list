@@ -15,4 +15,5 @@ A simple command-line task list program written in C/C++ style.
 gcc -o lab9 main.c list.c file.c -lpthread
 ./lab9 <text_file> <binary_file>
 # example:
+make
 ./lab9 x y
